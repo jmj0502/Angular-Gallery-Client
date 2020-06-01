@@ -1,0 +1,7 @@
+.card-border {
+    cursor: pointer;
+}
+
+.card-border:hover {
+    box-shadow: 5px 10px 5px gainsboro;
+}
